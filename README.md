@@ -130,10 +130,4 @@ The time-performance trade-off shows interesting patterns:
 
 [1] Hinton, G. E., & Salakhutdinov, R. R. (2006). "Reducing the dimensionality of data with neural networks." *Science*, 313(5786), 504-507.
 
-[2] He, K., Zhang, X., Ren, S., & Sun, J. (2016). "Deep residual learning for image recognition." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*, 770-778.
-
-[3] Koch, G., Zemel, R., & Salakhutdinov, R. (2015). "Siamese neural networks for one-shot image recognition." *ICML Deep Learning Workshop*.
-
-[4] Tan, M., & Le, Q. (2019). "EfficientNet: Rethinking model scaling for convolutional neural networks." *International Conference on Machine Learning*, 6105-6114.
-
-[5] Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet classification with deep convolutional neural networks." *Advances in Neural Information Processing Systems*, 1097-1105.
+[2] Koch, G., Zemel, R., & Salakhutdinov, R. (2015). "Siamese neural networks for one-shot image recognition." *ICML Deep Learning Workshop*.
