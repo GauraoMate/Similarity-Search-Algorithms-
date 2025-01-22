@@ -47,8 +47,8 @@ Based on our EfficientNet implementation:
 ### Performance Metrics
 | Model       | Accuracy | F1 Score | Time (s) |
 |------------|----------|----------|-----------|
-| Autoencoder | 0.4339   | 0.4349   | 211.15   |
-| CNN         | 0.8284   | 0.8276   | 544.89   |
+| Autoencoder | 0.4339   | 0.4348   | 211.15   |
+| CNN         | 0.8284   | 0.8275   | 544.89   |
 | Siamese     | 0.1213   | 0.0746   | 267.59   |
 | EfficientNet| 0.7241   | 0.7241   | 403.57   |
 
